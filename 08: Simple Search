@@ -1,7 +1,0 @@
-names = ["Jake", "Zac", "Ian", "Ron", "Sam", "Dave"]
-search = input("Enter name to search: ")
-
-if search in names:
-    print("Name found")
-else:
-    print("Name not found") 
